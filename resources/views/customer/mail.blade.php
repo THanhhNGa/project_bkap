@@ -1,0 +1,1 @@
+Cảm ơn {{$email}} đã đóng góp ý kiến cho cửa hàng của chúng tôi </br>
